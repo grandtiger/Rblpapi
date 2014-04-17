@@ -5,6 +5,6 @@ Maintainer: Whit Armstrong <armstrong.whit@gmail.com>
 Author: Whit Armstrong <armstrong.whit@gmail.com>
 Imports: Rcpp (>= 0.11.0)
 LazyLoad: yes
-LinkingTo: Rcpp
+LinkingTo: Rcpp, BH
 Description: R interface to BBG
 License: GPL-3
