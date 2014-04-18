@@ -9,4 +9,4 @@ else
   BBG_LIB=blpapi3_32
 endif
 
-PKG_LIBS = -L../inst/libs/ -lboost_date_time -l$(BBG_LIB)
+PKG_LIBS = -L../inst/libs/ -l$(BBG_LIB)
